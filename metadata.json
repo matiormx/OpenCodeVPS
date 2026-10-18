@@ -1,0 +1,6 @@
+{
+  "name": "OpenCode Web Console",
+  "description": "Mobile-first web interface and interactive PTY bridge for OpenCode CLI, enabling terminal commands, diff previews, and plan confirmations from any browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

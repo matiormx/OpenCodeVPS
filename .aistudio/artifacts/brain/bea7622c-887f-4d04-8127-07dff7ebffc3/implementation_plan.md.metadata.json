@@ -1,0 +1,6 @@
+{
+  "summary": "Blueprint arquitectónico y plan de implementación integral para la Web UI de OpenCode: servidor Express con WebSockets autenticados (JWT), puente PTY con sesión compartida, explorador de proyectos y frontend responsive híbrido (Chat + Terminal + Diffs + Touch Bar).",
+  "updatedAt": "2026-10-18T01:38:56.729804647Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
